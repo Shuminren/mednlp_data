@@ -1,6 +1,6 @@
 # mednlp_data
 
-Frozen reproducibility package for the MedNLP-Hub retrieval evaluation.
+Frozen reproducibility package for the MedNLP-Hub.
 
 ## Contents
 
